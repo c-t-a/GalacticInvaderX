@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8b0b01ddddb08f04abf6067111bcc211
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - webCameraPlane: {instanceID: 0}
+  - shootButton: {instanceID: 0}
+  - countDisplay: {instanceID: 0}
+  - alienYellow: {fileID: 7209437963578624958, guid: fb72059420eff2641a653b752612013e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

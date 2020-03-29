@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 61cdd665c4135ba469f8cb4cef962fba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - webCameraPlane: {instanceID: 0}
+  - pickButton: {instanceID: 0}
+  - countDisplay: {instanceID: 0}
+  - spriteBack: {instanceID: 0}
+  - crosshair: {instanceID: 0}
+  - coinBag: {fileID: 1702799146668940346, guid: 075e333e1841b314d9c30a27ea504d77,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-03-28T13:40:08.941+08:00
+  initializedAtString: 2020-03-28T08:58:35.873+08:00
+  entries:
+  - path: Galactic Invader X (Pilot)\Assets\2D\Mobile Art\MobileIcon.jpg
+    fullPath: C:\Users\QS Logics\Desktop\cp3405-sp53-2019-assignment2-dtiii-group-2\Galactic
+      Invader X (Pilot)\Assets\2D\Mobile Art\MobileIcon.jpg
+    projectPath: Assets\2D\Mobile Art\MobileIcon.jpg
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Galactic Invader X (Pilot)\Assets\2D\Mobile Art\MobileIcon.jpg.meta
+    fullPath: C:\Users\QS Logics\Desktop\cp3405-sp53-2019-assignment2-dtiii-group-2\Galactic
+      Invader X (Pilot)\Assets\2D\Mobile Art\MobileIcon.jpg.meta
+    projectPath: Assets\2D\Mobile Art\MobileIcon.jpg.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Galactic Invader X (Pilot)\Assets\2D\Mobile Art\MobileSplashScreen.jpg
+    fullPath: C:\Users\QS Logics\Desktop\cp3405-sp53-2019-assignment2-dtiii-group-2\Galactic
+      Invader X (Pilot)\Assets\2D\Mobile Art\MobileSplashScreen.jpg
+    projectPath: Assets\2D\Mobile Art\MobileSplashScreen.jpg
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Galactic Invader X (Pilot)\Assets\2D\Mobile Art\MobileSplashScreen.jpg.meta
+    fullPath: C:\Users\QS Logics\Desktop\cp3405-sp53-2019-assignment2-dtiii-group-2\Galactic
+      Invader X (Pilot)\Assets\2D\Mobile Art\MobileSplashScreen.jpg.meta
+    projectPath: Assets\2D\Mobile Art\MobileSplashScreen.jpg.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Galactic Invader X (Pilot)\ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\QS Logics\Desktop\cp3405-sp53-2019-assignment2-dtiii-group-2\Galactic
+      Invader X (Pilot)\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Galactic Invader X (Pilot)\ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\QS Logics\Desktop\cp3405-sp53-2019-assignment2-dtiii-group-2\Galactic
+      Invader X (Pilot)\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
