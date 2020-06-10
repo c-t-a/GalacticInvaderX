@@ -2,10 +2,10 @@
 This is the group project for university assignment. In this project, we use Unity to build the mobile game. This game is developed into two modes, AR and 2D. In AR mode, we used maker-less baesd which can be play in any where. What I did in this project is that I developed all the parts from 2D game mode.
 
 ## Mockup
-
+<img src="images/Game Screen.png">
 
 ## Built with
-* [Unity](https://unity.com/) - Game Engine
+* [Unity](https://unity.com/) - Game Engine (C#)
 
 ## Author
 * **Christopher Thiha Aung** - *Software Developer* - [LinkedIn](https://www.linkedin.com/in/christopher-t-678b41171/)
