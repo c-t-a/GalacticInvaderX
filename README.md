@@ -12,7 +12,7 @@ Group project for Design Thinking and Project Management subject. In this projec
 * **Chaw Su Thaw Tar** - Member
 * **HAV KOKFONG** - Member
 * **Min Thu Mon** - Member
-* **Pyae Phyo Thiha Aung (Author)** - Member
+* **Christopher Thiha Aung (Author)** - Member
 
 ## Author
 * **Christopher Thiha Aung** - *Software Developer* - [LinkedIn](https://www.linkedin.com/in/christopher-t-678b41171/)
